@@ -8,22 +8,22 @@
 ## Analysis Using Grouping and Pivot Tables:
 
 ###           Region Products Sold Analysis:
-                Determined the top regions with the highest number of products sold using the group_by and pivot_table functions on the units_sold column, showing results by retailer, region, state, and city.
-                Sorted and displayed the top 5 regions with the most sales.
+Determined the top regions with the highest number of products sold using the group_by and pivot_table functions on the units_sold column, showing results by retailer, region, state, and city.
+Sorted and displayed the top 5 regions with the most sales.
 
 
 ###           Region Sales Analysis:
-                Determined the top regions with the highest total sales using pivot_table function on the total_sales column, showing results by retailer, region, state, and city.
-                Sorted and displayed the top 5 regions with the most sales.
+Determined the top regions with the highest total sales using pivot_table function on the total_sales column, showing results by retailer, region, state, and city.
+Sorted and displayed the top 5 regions with the most sales.
 
 
 ###           Retailer Sales Analysis:
-                Determined the top retailers with the highest total sales using pivot_table function using the total_sales column, showing results by retailer, region, state, and city.
-                Sorted and displayed the top 5 retailers with the most sales.
+Determined the top retailers with the highest total sales using pivot_table function using the total_sales column, showing results by retailer, region, state, and city.
+Sorted and displayed the top 5 retailers with the most sales.
 
 
 ###           Women's Athletic Footwear Sales:
-                  Filtered the data for women's athletic footwear and identified the top 5 retailers by units sold.
-                  Determined the day and week with the most sales of women's athletic footwear using resampling into daily and weekly bins respectively.
-                  Sorted the resampled df's to display the top 10 days and weeks with most sales.
+Filtered the data for women's athletic footwear and identified the top 5 retailers by units sold.
+Determined the day and week with the most sales of women's athletic footwear using resampling into daily and weekly bins respectively.
+Sorted the resampled df's to display the top 10 days and weeks with most sales.
 
